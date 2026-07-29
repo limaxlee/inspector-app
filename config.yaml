@@ -1,0 +1,7 @@
+server_port: 6789
+device: cpu
+checkpoint_dir: checkpoints
+threshold: 99.0
+models:
+  - epoxy
+  - vaium

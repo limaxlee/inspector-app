@@ -1,3 +1,11 @@
+# Vendored YOLOv5 fork used by the vaium detector (copied in, not tracked here)
+/chip_detector/
+
+# Model weights
+/checkpoints/**
+!/checkpoints/**/
+!/checkpoints/**/.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
